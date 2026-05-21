@@ -110,13 +110,41 @@ contact: yasharth.social@gmail.com
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nodejs,express,react,vite&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,cpp,html,css&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis,postgres,mysql,mongodb,grafana,aws&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,redis,nginx,jenkins,graphql,elasticsearch&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,vue,svelte,tailwind,figma,firebase,azure,pytorch,opencv&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,tailwind,redux,webpack,vite&theme=dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,firebase,grafana,jenkins,postman,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
+  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
 </p>
 
 ---
