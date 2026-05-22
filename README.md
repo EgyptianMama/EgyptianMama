@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://yasharth-tripathi.netlify.app/" target="_blank">
+  <a href="https://space-portfolio-yasharth.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   &nbsp;
