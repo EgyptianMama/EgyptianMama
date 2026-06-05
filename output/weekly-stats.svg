@@ -10,7 +10,7 @@
       font-size="36"
       font-weight="bold"
     >
-      7 Contributions This Week
+      12 Contributions This Week
     </text>
 
     <text
@@ -198,7 +198,7 @@
         width="48"
         height="48"
         rx="8"
-        fill="#2f81f7"
+        fill="#6E56CF"
       />
       <text
         x="594"
@@ -217,7 +217,7 @@
         font-size="16"
         font-weight="bold"
       >
-        1
+        6
       </text>
       
   </svg>
