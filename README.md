@@ -121,11 +121,9 @@ contact: yasharth.social@gmail.com
   <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,tailwind,redux,webpack,vite&theme=dark" />
 </p>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </p>
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,firebase,grafana,jenkins,postman,figma&theme=dark" />
@@ -149,16 +147,37 @@ contact: yasharth.social@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egyptianmama&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egyptianmama&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=egyptianmama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<!--
+  NOTE: github-readme-stats.vercel.app is a rate-limited public endpoint that goes down frequently.
+  The most reliable fix is to self-host your own Vercel instance:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+
+  Until then, these cards use cache_seconds=86400 to reduce rate-limit hits.
+-->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egyptianmama&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=egyptianmama&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egyptianmama&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css&cache_seconds=86400" height="180"/>
+</p>
+
+<!--
+  Streak stats: demolab.com goes down often. Using the community-maintained
+  Vercel fork as a fallback. If this also breaks, self-host:
+  https://github.com/DenverCoder1/github-readme-streak-stats (checkout vercel branch)
+-->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=egyptianmama&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -166,5 +185,35 @@ contact: yasharth.social@gmail.com
 </p>
 
 ---
+
+## 📈 Contribution Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egyptianmama&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egyptianmama&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egyptianmama&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egyptianmama&theme=tokyonight&utcOffset=5.5" height="180"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=egyptianmama&label=Profile%20Views&color=6E56CF&style=flat-square" alt="profile views"/>
+</p>
+
+> ⚡ **Tip for 100% uptime on stats cards:** Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and deploy your own Vercel instances. Takes ~5 minutes and you'll never see a broken image again.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
