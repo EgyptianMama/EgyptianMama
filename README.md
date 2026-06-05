@@ -162,8 +162,9 @@ contact: yasharth.social@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EgyptianMama/EgyptianMama/main/output/weekly-stats.svg" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egyptianmama&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
