@@ -147,14 +147,6 @@ contact: yasharth.social@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=egyptianmama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <!--
