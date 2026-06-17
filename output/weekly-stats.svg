@@ -10,7 +10,7 @@
       font-size="36"
       font-weight="bold"
     >
-      1 Contributions This Week
+      7 Contributions This Week
     </text>
 
     <text
@@ -30,7 +30,7 @@
         width="48"
         height="48"
         rx="8"
-        fill="#2f81f7"
+        fill="#161b22"
       />
       <text
         x="144"
@@ -39,7 +39,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Wed
+        Thu
       </text>
       <text
         x="144"
@@ -49,7 +49,7 @@
         font-size="16"
         font-weight="bold"
       >
-        1
+        0
       </text>
       
       <rect
@@ -67,7 +67,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Thu
+        Fri
       </text>
       <text
         x="219"
@@ -95,7 +95,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Fri
+        Sat
       </text>
       <text
         x="294"
@@ -123,7 +123,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sat
+        Sun
       </text>
       <text
         x="369"
@@ -151,7 +151,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sun
+        Mon
       </text>
       <text
         x="444"
@@ -170,38 +170,10 @@
         width="48"
         height="48"
         rx="8"
-        fill="#161b22"
+        fill="#6E56CF"
       />
       <text
         x="519"
-        y="240"
-        fill="white"
-        text-anchor="middle"
-        font-size="14"
-      >
-        Mon
-      </text>
-      <text
-        x="519"
-        y="198"
-        fill="white"
-        text-anchor="middle"
-        font-size="16"
-        font-weight="bold"
-      >
-        0
-      </text>
-      
-      <rect
-        x="570"
-        y="170"
-        width="48"
-        height="48"
-        rx="8"
-        fill="#161b22"
-      />
-      <text
-        x="594"
         y="240"
         fill="white"
         text-anchor="middle"
@@ -210,6 +182,34 @@
         Tue
       </text>
       <text
+        x="519"
+        y="198"
+        fill="white"
+        text-anchor="middle"
+        font-size="16"
+        font-weight="bold"
+      >
+        4
+      </text>
+      
+      <rect
+        x="570"
+        y="170"
+        width="48"
+        height="48"
+        rx="8"
+        fill="#2f81f7"
+      />
+      <text
+        x="594"
+        y="240"
+        fill="white"
+        text-anchor="middle"
+        font-size="14"
+      >
+        Wed
+      </text>
+      <text
         x="594"
         y="198"
         fill="white"
@@ -217,7 +217,7 @@
         font-size="16"
         font-weight="bold"
       >
-        0
+        2
       </text>
       
   </svg>
