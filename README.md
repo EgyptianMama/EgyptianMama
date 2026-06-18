@@ -206,6 +206,6 @@ contact: yasharth.social@gmail.com
   <img src="https://komarev.com/ghpvc/?username=egyptianmama&label=Profile%20Views&color=6E56CF&style=flat-square" alt="profile views"/>
 </p>
 
-> ⚡ **Tip for 100% uptime on stats cards:** Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and deploy your own Vercel instances. Takes ~5 minutes and you'll never see a broken image again.
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
