@@ -10,7 +10,7 @@
       font-size="36"
       font-weight="bold"
     >
-      6 Contributions This Week
+      3 Contributions This Week
     </text>
 
     <text
@@ -30,38 +30,10 @@
         width="48"
         height="48"
         rx="8"
-        fill="#2f81f7"
-      />
-      <text
-        x="144"
-        y="240"
-        fill="white"
-        text-anchor="middle"
-        font-size="14"
-      >
-        Mon
-      </text>
-      <text
-        x="144"
-        y="198"
-        fill="white"
-        text-anchor="middle"
-        font-size="16"
-        font-weight="bold"
-      >
-        1
-      </text>
-      
-      <rect
-        x="195"
-        y="170"
-        width="48"
-        height="48"
-        rx="8"
         fill="#161b22"
       />
       <text
-        x="219"
+        x="144"
         y="240"
         fill="white"
         text-anchor="middle"
@@ -70,7 +42,7 @@
         Tue
       </text>
       <text
-        x="219"
+        x="144"
         y="198"
         fill="white"
         text-anchor="middle"
@@ -81,12 +53,40 @@
       </text>
       
       <rect
-        x="270"
+        x="195"
         y="170"
         width="48"
         height="48"
         rx="8"
         fill="#2f81f7"
+      />
+      <text
+        x="219"
+        y="240"
+        fill="white"
+        text-anchor="middle"
+        font-size="14"
+      >
+        Wed
+      </text>
+      <text
+        x="219"
+        y="198"
+        fill="white"
+        text-anchor="middle"
+        font-size="16"
+        font-weight="bold"
+      >
+        2
+      </text>
+      
+      <rect
+        x="270"
+        y="170"
+        width="48"
+        height="48"
+        rx="8"
+        fill="#161b22"
       />
       <text
         x="294"
@@ -95,7 +95,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Wed
+        Thu
       </text>
       <text
         x="294"
@@ -105,7 +105,7 @@
         font-size="16"
         font-weight="bold"
       >
-        2
+        0
       </text>
       
       <rect
@@ -123,7 +123,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Thu
+        Fri
       </text>
       <text
         x="369"
@@ -151,7 +151,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Fri
+        Sat
       </text>
       <text
         x="444"
@@ -179,7 +179,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sat
+        Sun
       </text>
       <text
         x="519"
@@ -207,7 +207,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sun
+        Mon
       </text>
       <text
         x="594"
