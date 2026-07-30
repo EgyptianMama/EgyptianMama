@@ -10,7 +10,7 @@
       font-size="36"
       font-weight="bold"
     >
-      2 Contributions This Week
+      0 Contributions This Week
     </text>
 
     <text
@@ -39,7 +39,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Thu
+        Fri
       </text>
       <text
         x="144"
@@ -67,7 +67,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Fri
+        Sat
       </text>
       <text
         x="219"
@@ -95,7 +95,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sat
+        Sun
       </text>
       <text
         x="294"
@@ -123,7 +123,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Sun
+        Mon
       </text>
       <text
         x="369"
@@ -151,7 +151,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Mon
+        Tue
       </text>
       <text
         x="444"
@@ -179,7 +179,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Tue
+        Wed
       </text>
       <text
         x="519"
@@ -207,7 +207,7 @@
         text-anchor="middle"
         font-size="14"
       >
-        Wed
+        Thu
       </text>
       <text
         x="594"
